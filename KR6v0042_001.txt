@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:18.562359
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:09
 #+TITLE: 觀佛三昧海經本行品第八
 #+PROPERTY: CBETA_ID W03n0031e
 #+PROPERTY: ID KR6v0042
@@ -12,7 +12,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-錄文五¶
+* 錄文五¶
 ¶
 
  觀佛三昧海經本行品第八¶
