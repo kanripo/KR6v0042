@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:18.562359
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:09
 #+TITLE: 觀佛三昧海經本行品第八
 #+PROPERTY: CBETA_ID W03n0031e
 #+PROPERTY: ID KR6v0042
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031e
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0042_W_000-0437a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6v0042_W_001-0437a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 
-錄文五¶
+* 〔錄文五〕¶
 ¶
-
- 觀佛三昧海經本行品第八¶
+觀佛三昧海經本行品第八¶
 ¶
 
 佛如來頂上肉髻團圓彖起，猶如合拳。其上平偃，猶¶
